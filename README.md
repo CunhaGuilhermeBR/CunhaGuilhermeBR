@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Guilherme Augusto</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Augusto, 22 years old</h1>
 <h3 align="center">A passionate backend developer from Belo Horizonte, Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cunhaguilhermebr&label=Profile%20views&color=0e75b6&style=flat" alt="cunhaguilhermebr" /> </p>
 
-- 🌱 I’m currently learning *Node.js and Vue*
+- 🌱 I’m currently learning *Node.js* and *Vue*. / Atualmente aprendendo *Node.js* e *Vue*.
 
-- 💬 Ask me about *Java.*
+- Living in Belo Horizonte, Brazil. / Atualmente morando em Belo Horizonte, Brasil.
 
-- 📫 How to reach me *guilhermegomescunha@hotmail.com*
+- 💬 Ask me about *Java.* / Pergunte-me sobre Java.
+
+- 📫 How to reach me *guilhermegomescunha@hotmail.com* / Como entrar em contato comigo *guilhermegomescunha@hotmail.com*
 
 
 <h3 align="left">Languages and Tools:</h3>
