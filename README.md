@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cunhaguilhermebr&label=Profile%20views&color=0e75b6&style=flat" alt="cunhaguilhermebr" /> </p>
 
-- 🌱 I’m currently learning *Node.js* and *Vue*. / Atualmente aprendendo *Node.js* e *Vue*.
+- 🌱 I’m currently studying *Node.js* and *Ruby*. / Atualmente estudando *Node.js* e *Ruby*.
 
 - Living in Belo Horizonte, Brazil. / Atualmente morando em Belo Horizonte, Brasil.
 
