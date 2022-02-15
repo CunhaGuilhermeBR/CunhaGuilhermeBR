@@ -7,6 +7,8 @@
 
 - Living in Belo Horizonte, Brazil. / Atualmente morando em Belo Horizonte, Brasil.
 
+- <a href="https://kukac.com.br">Kukac</a> Fullstack developer /<a href="https://kukac.com.br">Kukac</a> desenvolvedor Fullstack.
+
 - 💬 Ask me about *Java.* / Pergunte-me sobre Java.
 
 - 📫 How to reach me *guilhermegomescunha@hotmail.com* / Como entrar em contato comigo *guilhermegomescunha@hotmail.com*
